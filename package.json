@@ -1,0 +1,49 @@
+{
+  "name": "funitureshop",
+  "version": "1.0.0",
+  "description": "Интернет магазин мебели",
+  "main": "index.js",
+  "scripts": {
+    "build": "set NODE_ENV=production&&webpack",
+    "dev": "set NODE_ENV=development&&webpack",
+    "start": "set NODE_ENV=development&&webpack serve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maslenat/FunitureShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maslenat/FunitureShop/issues"
+  },
+  "browserslist": [
+    "IE 10"
+  ],
+  "homepage": "",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.2",
+    "babel-loader": "^9.1.2",
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.8.1",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.1",
+    "mini-css-extract-plugin": "^2.7.6",
+    "postcss": "^8.4.24",
+    "postcss-loader": "^7.3.2",
+    "postcss-preset-env": "^8.4.1",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.3.1",
+    "style-loader": "^3.3.3",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  },
+  "dependencies": {
+    "cross": "^1.0.0",
+    "dinero.js": "^1.9.1",
+    "moment": "^2.29.4",
+    "normalize.css": "^8.0.1"
+  }
+}
