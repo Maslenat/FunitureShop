@@ -3,7 +3,7 @@
 
 
 <img width="600px" height="350px" x src="https://github.com/maslenat/Images/raw/main/funiture.png">
-<img width="600px" height="350px" src="https://github.com/maslenat/Images/raw/main/funiture2.png">
+<img width="600px" height="350px" src="https://github.com/maslenat/Images/raw/main/furniture2.png">
 
 
 
