@@ -1,5 +1,6 @@
 # Furniture store website
-![Uploading image.png…]()
+
+![Uploading Безымянный.png…]()
 
 
 
