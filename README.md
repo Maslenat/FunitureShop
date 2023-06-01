@@ -1,6 +1,6 @@
 # Furniture store website
+![Image](https://github.com/{maslenat}/{Images}/raw/{main}/funiture.png)
 
-![Uploading Безымянный.png…]()
 
 
 
