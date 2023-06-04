@@ -21,7 +21,7 @@
   "browserslist": [
     "IE 10"
   ],
-  "homepage": "",
+  "homepage": "https://maslenat.github.io/FunitureShop/",
   "devDependencies": {
     "@babel/core": "^7.22.1",
     "@babel/preset-env": "^7.22.2",
