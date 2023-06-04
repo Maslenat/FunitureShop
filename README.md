@@ -8,7 +8,3 @@
 
 ## Deploy
 <a href="https://maslenat.github.io/FunitureShop/">https://maslenat.github.io/FunitureShop</a>
-
-## Getting started
-
-
