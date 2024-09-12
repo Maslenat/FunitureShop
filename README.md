@@ -1,9 +1,7 @@
-# Furniture store website
+# My Nanny website
 
 
-<img width="800px" height="350px"  src="https://github.com/maslenat/Images/raw/main/funiture.png">
-<img width="800px" height="350px" src="https://github.com/maslenat/Images/raw/main/furniture2.png">
-
+<img width="800px" height="350px"  src="https://github.com/Maslenat/Images/blob/main/My_nanny.png">
 
 
 ## Deploy
